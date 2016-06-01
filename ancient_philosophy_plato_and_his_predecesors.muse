@@ -1,0 +1,37 @@
+#title Ancient Philosophy: Plato and his Predecesors Course Notes
+#author Fabio Arciniegas May 31, 2016 (19:18:59)
+
+** Sources 
+Coursera University of Pennsylvania Course, Susan Sauve Meyer
+https://www.coursera.org/learn/plato/home/welcome
+
+* Introduction
+
+Philosophy as rational enquiry rather than colloquial interpretation as set of precepts. Western tradition of use of Logos: reason.
+
+Four key times:
+Presocratics(625-500) - Socrates(470-399) - Plato (430-347) - Aristotle (384-323)
+
+* Presocratics
+
+3 Milesians:
+ - Thales of miletus (625): Water 
+ - Anaximander (610): Aiperon
+ - Anaximenes (600): Air
+
+Also:
+ - Heraclitus (540)
+ - Parmenides (515)
+ - Anaxagoras (500)
+
+** The Milesians
+
+ *Note*: References to the milesians writings are made according to Diels-Kranz. Fragments are marked "B" and Testimonia "A". Each philosopher has numbered entries. Whence Heraclitus B50 indicates 50th fragment in DK. Furthermore, each philosopher has a number whence refs such as DK11A9 (Aristotle, testimonia 9)
+
+Aristotle calls the Milesians the first philosophers. They are commonly concerned with identifying the internal innermost constituent of the physical world.
+Thales → Water, Anaximenes → Air, Anaximander → Apeiron. In this sense they are said to be trying to understand the world "from the inside out."
+
+** Heraclitus (535-475)
+
+Known as _The Riddler_ or _The Obscure_, because of the unclear and poetic nature of its writings where he often uses "the unity of opposites."  He is also known as **The weeping philosopher**, as opposed to **Democritus** (the laughing one) because according to Theosphratus he didn't finish some of his works because of melancholia.  The pair is often mentioned in art including the Donato Bramante fresco and many satires particularly Lucian of Samosata "Sale of Creeds" and 
+
