@@ -1,11 +1,13 @@
 #title Ancient Philosophy: Plato and his Predecesors Course Notes
 #author Fabio Arciniegas May 31, 2016 (19:18:59)
 
+* Preliminaries
+
 ** Sources 
 Coursera University of Pennsylvania Course, Susan Sauve Meyer
 https://www.coursera.org/learn/plato/home/welcome
 
-* Introduction
+** Introduction
 
 Philosophy as rational enquiry rather than colloquial interpretation as set of precepts. Western tradition of use of Logos: reason.
 
@@ -14,15 +16,19 @@ Presocratics(625-500) - Socrates(470-399) - Plato (430-347) - Aristotle (384-323
 
 * Presocratics
 
-3 Milesians:
+3 Milesians concerned with fundamental constituents:
  - Thales of miletus (625): Water 
  - Anaximander (610): Aiperon
  - Anaximenes (600): Air
 
-Also:
- - Heraclitus (540)
- - Parmenides (515)
+Other presocratics, concerned with the idea of change:
+ - Heraclitus (540) : everything in constant change
+ - Parmenides (515) : change is impossible
+ - Empedocles (490) : refutation of Parmenides
+
+Link back to constituents and Atomists:
  - Anaxagoras (500)
+ - Leucippus and Democritus (500)  
 
 ** The Milesians
 
@@ -33,5 +39,54 @@ Thales → Water, Anaximenes → Air, Anaximander → Apeiron. In this sense the
 
 ** Heraclitus (535-475)
 
-Known as _The Riddler_ or _The Obscure_, because of the unclear and poetic nature of its writings where he often uses "the unity of opposites."  He is also known as **The weeping philosopher**, as opposed to **Democritus** (the laughing one) because according to Theosphratus he didn't finish some of his works because of melancholia.  The pair is often mentioned in art including the Donato Bramante fresco and many satires particularly Lucian of Samosata "Sale of Creeds" and 
+Known as _The Riddler_ or _The Obscure_, because of the unclear and poetic nature of its writings where he often uses "the unity of opposites."  He is also known as **The weeping philosopher**, as opposed to **Democritus** (the laughing one) because according to Theosphratus he didn't finish some of his works because of melancholia.  The pair is often mentioned in art including the Donato Bramante fresco and many satires particularly Lucian of Samosata "Sale of Creeds."
 
+DK22B1: "People don't get it"
+
+DK22B50: Listen not too me but to the logos.
+
+His defining themes are (a) the union of opposites, made famous in many aphorisms, particularly "Changing, it rests" and (b) for Heraclitus change is constant ("you cannot step twice in the same river")
+
+** Parmenides (515)
+
+In straight opposition to Heraclitus, Parmenides considers change an illusion. The argument is fairly convoluted but has given an important starting point to important questions in epistemology. It goes as follows:
+
+There are two ways of thinking one is correct and fruitful the other incorrect and leads to contradiction. The right way is thinking about "what it is," the incorrect is "what is not."
+
+To think of what is not, according to Parmenides is a problem because it leads to contradiction such as in the following example:
+
+1. there is no loch ness monster
+2. I'm thinking of the loch ness monster
+3. the loch ness monster is the subject so it IS.
+
+The apparent contradiction begs the question of where exactly is there an error. Early epistemologists produce answers similar to "you are thinking of serpents and big things which do exist."
+
+In any case, parmenides argues that to think "what is not" is invalid and to think of change is to ultimately think of something is not (something that _wasn't_ now is).
+
+In parmenides view to think about changes is to  think about what "is not" and therefore to be in error.
+
+** Empedocles (500)
+
+Along with others Empedocles disagrees with Parmenides. He points out that the conflict is only there if you don't differentiate between the word "is" in predicative sense and "is" in the existential sense. Change involving the predicative sense bypasses the apparent paradox entirely. e.g. something wasn't of a particular color but now is. Simply changed color. We use "is" in the sentence "the dog is brown" in the predicative sense.
+
+Empedocles is important also because of the key idea "all generation is alteration."
+
+** Anaxagoras (500)
+
+Anaxagoras continues the idea from Empedocles but with a different basic constituent, he calls it Nous.
+
+In continuing Empedocles refutation of Parmenides, Anaxagoras provides a link back to the concerns of the Miletians and the question of constituents. Also basis for the first atomists.
+
+** Leucippus and Democritus (~400)
+
+Atomicists posing the existence of indivisible components of all matter and the formation of the natural world by swirling of the kosmoi.
+
+One important part/motivation of their attempts was refuting Zeno's paradox (infinite cutting in half a finite distance).
+
+* Plato
+
+Studied here in the following pairing of books to main concerns:
+
+ - Menos: Epistemology: can virtue be thaught? what can be taught?
+ - The Republic
+ - Timeaus 
