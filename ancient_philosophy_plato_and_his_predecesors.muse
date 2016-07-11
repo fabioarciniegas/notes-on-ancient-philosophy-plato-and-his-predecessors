@@ -1,5 +1,5 @@
 #title Ancient Philosophy: Plato and his Predecesors Course Notes
-#author Fabio Arciniegas May 31, 2016 (19:18:59)
+#author Fabio Arciniegas  May 31, 2016 (19:18:59)
 
 * Preliminaries
 
@@ -88,5 +88,87 @@ One important part/motivation of their attempts was refuting Zeno's paradox (inf
 Studied here in the following pairing of books to main concerns:
 
  - Menos: Epistemology: can virtue be thaught? what can be taught?
- - The Republic
- - Timeaus 
+ - The Republic: What is justice?
+ - Timeaus: Natural world
+
+** Meno
+
+Dialog named after the interlocutor, as usual. Starts by Meno asking about Virtue and whether it can be taught, that is "Arete," understood not as moral good necessarily but as excellence, greatness. Later it grows into the question of what can be taught and known.
+
+The dialog, as usual in socratic dialogs is characterized by its format, named Elenchus (or Maieutic method) which is the socratic form of questioning rather than lecturing.  Socrates invites to "recall together" in a form of enquiry rather than "teaching."
+
+When Socrates says that he doesn't know what Virtue is and asks Meno what Virtue he means, Meno can only give examples of virtuous things. This gives rise to the objection or worry that the Elenchus can only be negative and never produce solid positive knowledge. Socrates defends it with the famous geometry lesson:
+
+Socrates brings a slave and starts asking him about a 1 square meter area and then asks him to construct one that is twice as large. The slave stumbles and guided by socrates finally arrives at the idea that taking the diagonal of the original square as the side for the second square is the right answer.
+
+The geometry lesson is supposed to illustrate that the slave has an innate capacity to arrive themselves at the right conclusion if helped by the right questions. In this sense the slave is being helped to recall rather than taught the answer.
+
+*** Meno's paradox 
+
+Meno's paradox is also known as the priority of definition. How can you start enquiring about virtue if you don't know what it is?
+
+How can you start enquiring about anything if you cannot define it and how can you define it if you don't enquire about it?
+
+Socrates answer is you only need true beliefs to enquire, not knowledge. Knowledge is stronger than true beliefs. You can believe the right thing for the wrong reasons.
+
+Knowlege differs from true beliefs in the method by which it is
+acquired, it is more stable. You can believe something false but you
+cannot _know_ something false.
+
+e.g. you may believe 317 is a prime number for the wrong reasons, say
+because someone said all odd numbers are prime or because it was on a
+list.
+
+** The Republic 380 BC
+
+The main concern is Justice. Whether it is a virtue or not, and how it
+applies to both society and individual.
+
+Thrasymachus starts by saying "justice is the advantage of the
+stronger." Glaucon, his friend, also challenges Socrates.
+
+Socrates starts by making  Thrasymachus  admit that a just man is
+actually happy. The argument of the republic II-IV justice will always
+be better even if unnoticed or unrewarded by gods or citizens.
+
+The structure of the argument is roughly as follows: a city (Polis)
+which exists for the skae of making it easier to provide for our
+needs, has 3 jobs/parts: the Rulers, Auxiliaries (military), and
+Producers (merchants).
+
+*Justice in a polis means everyone doing his jub and not meddling with
+others'*
+
+*** Justice of the Soul
+
+Just  like the polis has its roles for Ruler, Ally, Ruled, so does the
+psyche (soul).  The tripartite soul (Freud studied it and echos it) is
+made of Reason, Spirit, and Appetite.
+
+In a well-functioning psyche the reason rules, the spirit is aligned
+with the rulings of reason and not in opposition to them and the
+appetites are measuredly fed and put to productive use.
+
+The soul of the unjust is at civil war.
+
+For example the money-grabbing man has enslaved the intellect to
+appetite so his spirit cannot discern what the use of it is or what to
+praise but it.
+
+Justice is desirable on its own (not for reward) in the very special
+sense that with a ruined soul life is not worth living and no amount
+of power will make it so.
+
+*** Note: Principle of Charity vs Straw man
+
+A straw man is a common form of argument and is an informal fallacy
+based on giving the impression of refuting an opponent's argument,
+while actually refuting an argument that was not advanced by that
+opponent.
+
+The principle of charity requires interpreting a speaker's statements
+to be rational and, in the case of any argument, considering its best,
+strongest possible interpretation. 
+
+Goodness is objective and reason's function is to clarify it.
+
