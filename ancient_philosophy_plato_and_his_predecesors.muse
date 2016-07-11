@@ -1,4 +1,4 @@
-#title Ancient Philosophy: Plato and his Predecesors Course Notes  - Presocratics
+#title Ancient Philosophy: Plato and his Predecesors (Presocratics) Course Notes  
 #author Fabio Arciniegas  May 31, 2016 (19:18:59)
 
 * Preliminaries
@@ -103,11 +103,11 @@ One important part/motivation of their attempts was refuting Zeno's paradox (inf
 
 Studied here in the following pairing of books to main concerns:
 
- - Menos: Epistemology: can virtue be thaught? what can be taught?
- - The Republic: What is justice?
- - Timeaus: Natural world
+ - The Meno: Epistemology: can virtue be thaught? what can be taught?
+ - The Republic: What is justice? (what is the nature of forms)
+ - The Timeaus: Origin of Natural world
 
-** Meno
+** The Meno
 
 Dialog named after the interlocutor, as usual. Starts by Meno asking about Virtue and whether it can be taught, that is "Arete," understood not as moral good necessarily but as excellence, greatness. Later it grows into the question of what can be taught and known.
 
@@ -135,12 +135,12 @@ e.g. you may believe 317 is a prime number for the wrong reasons, say
 because someone said all odd numbers are prime or because it was on a
 list.
 
-** The Republic 380 BC
+** The Republic
 
-The main concerns are Justice and Forms. Whether it is a virtue or
-not to be just, and how it applies to both society and individual.
-The second concern, is theory of forms, famous because of the
-allegory of the cave.
+The main concerns in The Republic (~380 BC) are Justice and
+Forms. Whether it is a virtue or not to be just, and how it applies to
+both society and individual. The second concern, is theory of forms,
+famous because of the allegory of the cave.
 
 *** Justice in Society
 
@@ -191,7 +191,7 @@ strongest possible interpretation.
 
 Goodness is objective and reason's function is to clarify it.
 
-** Plato' Theory of forms
+*** Plato' Theory of forms
 
 One of the possible startitng points to explaing Plato's theory of
 forms is the question of what is X. e.g. what is Courage, piety, or
@@ -227,3 +227,35 @@ experience deals with imitations or shadows of the real things.
 The most important point is the notion of pure reason, unmediated by
 metaphor, clearest in its truth, is the source and aspiration of all
 knowledge. 
+
+** The Timaeus
+
+The Timaeaus is a dialog on the natural world, considered central in
+classical tradition, even more so than the Republic. The idea of
+Socrates being focused on the higher principles and sources (as
+opposed to Aristotle) as portrayed by Raphael in his painting comes
+from the Timeaus.
+
+In the Timeaus Socrates talks about a likely story, an eikos logos,
+where the Demiurge brings order in the primordial soup by copying from
+the forms into the physical world.
+
+From Model (Reason) the demiurge takes image and put it on a
+receptacle. In doing so it takes reason and imposes order on
+necessity. This is a translation of  pure goodness into constraints.
+
+*** The world's soul
+
+The entire cosmos a kind of animal in the sense of possesing an anima,
+soul, in which matehmatical order, regular and intelligent infuses
+life and propends towards the highest good, the highest reason. In
+this sense the world posesses a Mathematical soul.
+
+The elements by which Socrates explains these are arithmetic means and
+not explained in these notes. Also mentioned in the timeaus but not
+explained here are perfect triangles and the derivation of the five
+platonic solids: teta, hexa, octa, dodeca, icosa.
+
+
+---
+Tagged complete 1.0 - Fabio Arciniegas July 11, 2016 (15:11:08) 
