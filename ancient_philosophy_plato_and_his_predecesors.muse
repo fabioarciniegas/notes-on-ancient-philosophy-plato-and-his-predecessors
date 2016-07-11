@@ -1,4 +1,4 @@
-#title Ancient Philosophy: Plato and his Predecesors Course Notes
+#title Ancient Philosophy: Plato and his Predecesors Course Notes  - Presocratics
 #author Fabio Arciniegas  May 31, 2016 (19:18:59)
 
 * Preliminaries
@@ -9,10 +9,14 @@ https://www.coursera.org/learn/plato/home/welcome
 
 ** Introduction
 
-Philosophy as rational enquiry rather than colloquial interpretation as set of precepts. Western tradition of use of Logos: reason.
+Philosophy as rational enquiry rather than colloquial interpretation
+as set of precepts. Western tradition of use of Logos: reason. 
 
-Four key times:
-Presocratics(625-500) - Socrates(470-399) - Plato (430-347) - Aristotle (384-323)
+Four key BC ranges to keep in mind:
+ - Presocratics(625-500)
+ - Socrates(470-399)
+ - Plato (430-347)
+ - Aristotle (384-323)
 
 * Presocratics
 
@@ -32,10 +36,22 @@ Link back to constituents and Atomists:
 
 ** The Milesians
 
- *Note*: References to the milesians writings are made according to Diels-Kranz. Fragments are marked "B" and Testimonia "A". Each philosopher has numbered entries. Whence Heraclitus B50 indicates 50th fragment in DK. Furthermore, each philosopher has a number whence refs such as DK11A9 (Aristotle, testimonia 9)
+ *Note*: References to the milesians writings are made according to
+ Diels-Kranz. Fragments are marked "B" and Testimonia "A". Each
+ philosopher has numbered entries. Whence Heraclitus B50 indicates
+ 50th fragment in DK. Furthermore, each philosopher has a number
+ whence refs such as DK11A9 (Aristotle, testimonia 9) 
 
-Aristotle calls the Milesians the first philosophers. They are commonly concerned with identifying the internal innermost constituent of the physical world.
-Thales → Water, Anaximenes → Air, Anaximander → Apeiron. In this sense they are said to be trying to understand the world "from the inside out."
+Aristotle calls the Milesians the first philosophers. They are
+commonly concerned with identifying the internal innermost constituent
+of the physical world.
+
+  - Thales → Water
+  - Anaximenes → Air
+  - Anaximander → Apeiron.
+
+In this sense they are said to be trying to understand the world "from the inside
+out."  
 
 ** Heraclitus (535-475)
 
@@ -121,8 +137,12 @@ list.
 
 ** The Republic 380 BC
 
-The main concern is Justice. Whether it is a virtue or not, and how it
-applies to both society and individual.
+The main concerns are Justice and Forms. Whether it is a virtue or
+not to be just, and how it applies to both society and individual.
+The second concern, is theory of forms, famous because of the
+allegory of the cave.
+
+*** Justice in Society
 
 Thrasymachus starts by saying "justice is the advantage of the
 stronger." Glaucon, his friend, also challenges Socrates.
@@ -136,10 +156,9 @@ which exists for the skae of making it easier to provide for our
 needs, has 3 jobs/parts: the Rulers, Auxiliaries (military), and
 Producers (merchants).
 
-*Justice in a polis means everyone doing his jub and not meddling with
-others'*
+ *Justice in a polis means everyone doing his jub and not meddling with others*
 
-*** Justice of the Soul
+*** Justice in the Soul
 
 Just  like the polis has its roles for Ruler, Ally, Ruled, so does the
 psyche (soul).  The tripartite soul (Freud studied it and echos it) is
@@ -172,3 +191,39 @@ strongest possible interpretation.
 
 Goodness is objective and reason's function is to clarify it.
 
+** Plato' Theory of forms
+
+One of the possible startitng points to explaing Plato's theory of
+forms is the question of what is X. e.g. what is Courage, piety, or
+justice. The main observation is that there is one thing that IS
+courage and MANY things that are corageous. This difference between the
+One and the many is essential to the plato's thoughts on this topic.
+
+From the difference between asking about very tanglible, visible Xs
+and asking about abstract Xs we introduce the allegory of the divided line.
+
+*** The allegory of the divided line
+
+Socrates tells Glaucon about a line with a division between the
+visible (e.g. a dog) and the intellifible (e.g. numbers). He then
+suggests further dividing the lower half between the mere
+images/reflections or shadows of tangible things and the tangible
+things themselves. The result is the following:
+
+First:
+
+                       Visible                                     Intelligible
+|------------------------------------------------|-----------------------------------|
+
+Further divided:
+
+|--------------------|-----------------|-------------------------|-------------------|
+      Shadows           Natural          Some ideas             Pure ideas
+                                                  (geometry,nums)
+
+The second, more famous allegory is that of the cave in which limited
+experience deals with imitations or shadows of the real things.
+
+The most important point is the notion of pure reason, unmediated by
+metaphor, clearest in its truth, is the source and aspiration of all
+knowledge. 
