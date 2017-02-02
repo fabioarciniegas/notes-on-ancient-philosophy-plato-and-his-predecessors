@@ -1,13 +1,9 @@
-#title Ancient Philosophy: Plato and his Predecesors (Presocratics) Course Notes  
-#author Fabio Arciniegas  May 31, 2016 (19:18:59)
+#Plato and his Predecesors (Presocratics) 
 
-* Preliminaries
 
-** Sources 
-Coursera University of Pennsylvania Course, Susan Sauve Meyer
-https://www.coursera.org/learn/plato/home/welcome
+Fabio Arciniegas notes from Coursera's University of Pennsylvania Course by Susan Sauve Meyer available at https://www.coursera.org/learn/plato/home/welcome
 
-** Introduction
+## Introduction
 
 Philosophy as rational enquiry rather than colloquial interpretation
 as set of precepts. Western tradition of use of Logos: reason. 
@@ -18,7 +14,7 @@ Four key BC ranges to keep in mind:
  - Plato (430-347)
  - Aristotle (384-323)
 
-* Presocratics
+# Presocratics
 
 3 Milesians concerned with fundamental constituents:
  - Thales of miletus (625): Water 
@@ -34,7 +30,7 @@ Link back to constituents and Atomists:
  - Anaxagoras (500)
  - Leucippus and Democritus (500)  
 
-** The Milesians
+## The Milesians
 
  *Note*: References to the milesians writings are made according to
  Diels-Kranz. Fragments are marked "B" and Testimonia "A". Each
@@ -53,7 +49,7 @@ of the physical world.
 In this sense they are said to be trying to understand the world "from the inside
 out."  
 
-** Heraclitus (535-475)
+## Heraclitus (535-475)
 
 Known as _The Riddler_ or _The Obscure_, because of the unclear and poetic nature of its writings where he often uses "the unity of opposites."  He is also known as **The weeping philosopher**, as opposed to **Democritus** (the laughing one) because according to Theosphratus he didn't finish some of his works because of melancholia.  The pair is often mentioned in art including the Donato Bramante fresco and many satires particularly Lucian of Samosata "Sale of Creeds."
 
@@ -63,7 +59,7 @@ DK22B50: Listen not too me but to the logos.
 
 His defining themes are (a) the union of opposites, made famous in many aphorisms, particularly "Changing, it rests" and (b) for Heraclitus change is constant ("you cannot step twice in the same river")
 
-** Parmenides (515)
+## Parmenides (515)
 
 In straight opposition to Heraclitus, Parmenides considers change an illusion. The argument is fairly convoluted but has given an important starting point to important questions in epistemology. It goes as follows:
 
@@ -81,25 +77,25 @@ In any case, parmenides argues that to think "what is not" is invalid and to thi
 
 In parmenides view to think about changes is to  think about what "is not" and therefore to be in error.
 
-** Empedocles (500)
+## Empedocles (500)
 
 Along with others Empedocles disagrees with Parmenides. He points out that the conflict is only there if you don't differentiate between the word "is" in predicative sense and "is" in the existential sense. Change involving the predicative sense bypasses the apparent paradox entirely. e.g. something wasn't of a particular color but now is. Simply changed color. We use "is" in the sentence "the dog is brown" in the predicative sense.
 
 Empedocles is important also because of the key idea "all generation is alteration."
 
-** Anaxagoras (500)
+## Anaxagoras (500)
 
 Anaxagoras continues the idea from Empedocles but with a different basic constituent, he calls it Nous.
 
 In continuing Empedocles refutation of Parmenides, Anaxagoras provides a link back to the concerns of the Miletians and the question of constituents. Also basis for the first atomists.
 
-** Leucippus and Democritus (~400)
+## Leucippus and Democritus (~400)
 
 Atomicists posing the existence of indivisible components of all matter and the formation of the natural world by swirling of the kosmoi.
 
 One important part/motivation of their attempts was refuting Zeno's paradox (infinite cutting in half a finite distance).
 
-* Plato
+# Plato
 
 Studied here in the following pairing of books to main concerns:
 
@@ -107,7 +103,7 @@ Studied here in the following pairing of books to main concerns:
  - The Republic: What is justice? (what is the nature of forms)
  - The Timeaus: Origin of Natural world
 
-** The Meno
+## The Meno
 
 Dialog named after the interlocutor, as usual. Starts by Meno asking about Virtue and whether it can be taught, that is "Arete," understood not as moral good necessarily but as excellence, greatness. Later it grows into the question of what can be taught and known.
 
@@ -119,7 +115,7 @@ Socrates brings a slave and starts asking him about a 1 square meter area and th
 
 The geometry lesson is supposed to illustrate that the slave has an innate capacity to arrive themselves at the right conclusion if helped by the right questions. In this sense the slave is being helped to recall rather than taught the answer.
 
-*** Meno's paradox 
+### Meno's paradox 
 
 Meno's paradox is also known as the priority of definition. How can you start enquiring about virtue if you don't know what it is?
 
@@ -135,14 +131,14 @@ e.g. you may believe 317 is a prime number for the wrong reasons, say
 because someone said all odd numbers are prime or because it was on a
 list.
 
-** The Republic
+## The Republic
 
 The main concerns in The Republic (~380 BC) are Justice and
 Forms. Whether it is a virtue or not to be just, and how it applies to
 both society and individual. The second concern, is theory of forms,
 famous because of the allegory of the cave.
 
-*** Justice in Society
+### Justice in Society
 
 Thrasymachus starts by saying "justice is the advantage of the
 stronger." Glaucon, his friend, also challenges Socrates.
@@ -158,7 +154,7 @@ Producers (merchants).
 
  *Justice in a polis means everyone doing his jub and not meddling with others*
 
-*** Justice in the Soul
+### Justice in the Soul
 
 Just  like the polis has its roles for Ruler, Ally, Ruled, so does the
 psyche (soul).  The tripartite soul (Freud studied it and echos it) is
@@ -178,7 +174,7 @@ Justice is desirable on its own (not for reward) in the very special
 sense that with a ruined soul life is not worth living and no amount
 of power will make it so.
 
-*** Note: Principle of Charity vs Straw man
+### Note: Principle of Charity vs Straw man
 
 A straw man is a common form of argument and is an informal fallacy
 based on giving the impression of refuting an opponent's argument,
@@ -191,7 +187,7 @@ strongest possible interpretation.
 
 Goodness is objective and reason's function is to clarify it.
 
-*** Plato' Theory of forms
+### Plato' Theory of forms
 
 One of the possible startitng points to explaing Plato's theory of
 forms is the question of what is X. e.g. what is Courage, piety, or
@@ -202,7 +198,7 @@ One and the many is essential to the plato's thoughts on this topic.
 From the difference between asking about very tanglible, visible Xs
 and asking about abstract Xs we introduce the allegory of the divided line.
 
-*** The allegory of the divided line
+### The allegory of the divided line
 
 Socrates tells Glaucon about a line with a division between the
 visible (e.g. a dog) and the intellifible (e.g. numbers). He then
@@ -210,6 +206,7 @@ suggests further dividing the lower half between the mere
 images/reflections or shadows of tangible things and the tangible
 things themselves. The result is the following:
 
+``` 
 First:
 
                        Visible                                     Intelligible
@@ -221,6 +218,7 @@ Further divided:
       Shadows           Natural          Some ideas             Pure ideas
                                                   (geometry,nums)
 
+``` 
 The second, more famous allegory is that of the cave in which limited
 experience deals with imitations or shadows of the real things.
 
@@ -228,7 +226,7 @@ The most important point is the notion of pure reason, unmediated by
 metaphor, clearest in its truth, is the source and aspiration of all
 knowledge. 
 
-** The Timaeus
+## The Timaeus
 
 The Timaeaus is a dialog on the natural world, considered central in
 classical tradition, even more so than the Republic. The idea of
@@ -244,7 +242,7 @@ From Model (Reason) the demiurge takes image and put it on a
 receptacle. In doing so it takes reason and imposes order on
 necessity. This is a translation of  pure goodness into constraints.
 
-*** The world's soul
+### The world's soul
 
 The entire cosmos a kind of animal in the sense of possesing an anima,
 soul, in which matehmatical order, regular and intelligent infuses
@@ -258,4 +256,4 @@ platonic solids: teta, hexa, octa, dodeca, icosa.
 
 
 ---
-Tagged complete 1.0 - Fabio Arciniegas July 11, 2016 (15:11:08) 
+Fabio Arciniegas July 11, 2016 (15:11:08) 
