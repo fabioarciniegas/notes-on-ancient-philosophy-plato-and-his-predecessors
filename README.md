@@ -1,6 +1,6 @@
-## Introduction
+# Ancient Philosophy (1/2): Plato and his predecessors
 
-Fabio Arciniegas notes from Coursera's University of Pennsylvania Course by Susan Sauve Meyer available at https://www.coursera.org/learn/plato/
+Fabio Arciniegas notes from Coursera's University of Pennsylvania Course on presocratics by Susan Sauve Meyer available at https://www.coursera.org/learn/plato/
 
 Philosophy as rational enquiry rather than colloquial interpretation
 as set of precepts. Western tradition of use of Logos: reason. 
