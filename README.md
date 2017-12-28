@@ -1,6 +1,6 @@
 ---
 title:  Ancient Philosophy (1/2): Plato and his predecessors
-layout: merlot
+layout: post
 ---
 
 Fabio Arciniegas notes from Coursera's University of Pennsylvania Course by Susan Sauve Meyer available at https://www.coursera.org/learn/plato/home/welcome
