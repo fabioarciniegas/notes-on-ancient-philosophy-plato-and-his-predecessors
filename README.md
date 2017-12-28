@@ -1,5 +1,7 @@
-#Plato and his Predecesors (Presocratics) 
-
+---
+title:  Ancient Philosophy (1/2): Plato and his predecessors
+layout: merlot
+---
 
 Fabio Arciniegas notes from Coursera's University of Pennsylvania Course by Susan Sauve Meyer available at https://www.coursera.org/learn/plato/home/welcome
 
